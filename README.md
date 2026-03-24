@@ -95,4 +95,4 @@ Git • Makefile • Maven • Docker
 
 ## 📫 Connect with me
 
-[Telegram](https://t.me/saidjanov7) • [LinkedIn](https://linkedin.com/in/yourusername) • your.email@inha.uz
+[Telegram](https://t.me/saidjanov7) • [LinkedIn](https://www.linkedin.com/in/jaxongir-saidjanov-91156a2b5?trk=contact-info) • saidjanovjahon@gmail.com
