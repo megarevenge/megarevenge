@@ -63,16 +63,17 @@ I am a Computer Science student at **Inha University in Tashkent** and a peer at
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tooling
 
-### ⚡ Systems & Logic
-C • C++ • Java • Python
+### 🟦 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 
-### 🌐 Web & Integration
-JavaScript • HTML/CSS • Spring Boot • Telegram API
+### 🟩 Backend & Cloud
+<img src="https://skillicons.dev/icons?i=python,sqlite,netlify&theme=dark" />
 
-### 🧰 Tools
-Git • Makefile • Maven • Docker
+### 🟨 Languages & Tools
+<img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,gitlab,vscode,canva,figjam&theme=dark" />
+
 
 ---
 
