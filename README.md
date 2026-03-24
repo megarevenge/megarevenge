@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1544972636400-3X0P40MZM5CQ5Q3PXDC9/Title_Image.png" width="100%"/>
+  <img src="./welcome.png" width="100%"/>
 </p>
 
 <h1 align="center">Jakhongir Saidjanov</h1>
