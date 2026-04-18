@@ -37,17 +37,12 @@ I am a Computer Science student at **Inha University in Tashkent** and a peer at
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>PixelStream</b><br/>
-      Low-latency screen sharing in C++<br/>
-      <i>Focus: High-performance networking</i>
+      <b>Web Site</b><br/>
+      Responsive Web Site about heathly life style<br/>
+      <i>Focus: Responsiveness of web site</i>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <b>Minishell</b><br/>
-      A custom Unix shell implementation<br/>
-      <i>Focus: Process handling & signals</i>
-    </td>
     <td width="50%" align="center">
       <b>Birthday Bot</b><br/>
       Python-based automation for Telegram<br/>
