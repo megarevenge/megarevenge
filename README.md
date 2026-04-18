@@ -37,11 +37,6 @@ I am a Computer Science student at **Inha University in Tashkent** and a peer at
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>s21_string+</b><br/>
-      Implementation of <code>string.h</code> in C<br/>
-      <i>Focus: Memory safety & Unit testing</i>
-    </td>
-    <td width="50%" align="center">
       <b>PixelStream</b><br/>
       Low-latency screen sharing in C++<br/>
       <i>Focus: High-performance networking</i>
